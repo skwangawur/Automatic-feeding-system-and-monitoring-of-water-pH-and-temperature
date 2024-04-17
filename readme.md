@@ -50,14 +50,14 @@ This project is a group assignment for a college course aiming to monitor water 
 
 ## Flowchart
 
-![flowchart](./images/flowchart.png)
+![flowchart](./images/flowchart.png){width=300px}
 
 ## Hardware Setup
 
 Follow the steps in the Hardware Setup section of the documentation to properly connect the ESP32, DHT11, and MQ135.
 
-![wiring diagram](./images/wiring-diagram.png)
-![hardware system](./images/hardware-system.png)
+![wiring diagram](./images/wiring-diagram.png){width=300px}
+![hardware system](./images/hardware-system.png){width=300px}
 
 ## Usage
 
@@ -71,11 +71,11 @@ Follow the steps in the Hardware Setup section of the documentation to properly 
 
 Visit the Telegram bot integrated with ESP for monitoring, or alternatively, monitoring can be done via the LCD.
 
-![telegram](./images/telegram.png)
+![telegram](./images/telegram.png){width=300px}
 
 ## Result
 
-![catfish](./images/result.png)
+![catfish](./images/result.png){width=300px}
 
 ## Contributing
 
