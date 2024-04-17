@@ -50,7 +50,7 @@ This project is a group assignment for a college course aiming to monitor water 
 
 ## Flowchart
 
-![flowchart](./images/flowchart.png){width=300px}
+<img src="./images/flowchart.png" width="300">
 
 ## Hardware Setup
 
