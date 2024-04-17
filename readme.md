@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a group assignment for a college course aiming to monitor water temperature, pH levels, fish age, and automate feeding for catfish using sensors - PH-E4502 Library (for pH), DS18B20 Library (for water temperature), and a servo as a fish feeder actuator. Monitoring can be viewed through a Telegram application by joining the created Telegram bot. Additionally, monitoring can be done via an LCD monitor located in the device box.
+This project is a group assignment for a college course aiming to monitor water temperature, pH levels, and fish age, and automate feeding for catfish using sensors - PH-E4502 Library (for pH), DS18B20 Library (for water temperature), and a servo as a fish feeder actuator. Monitoring can be viewed through a Telegram application by joining the created Telegram bot. Additionally, monitoring can be done via an LCD monitor located in the device box.
 
 ## Hardware Requirements
 
@@ -56,8 +56,8 @@ This project is a group assignment for a college course aiming to monitor water 
 
 Follow the steps in the Hardware Setup section of the documentation to properly connect the ESP32, DHT11, and MQ135.
 
-![wiring diagram](./images/wiring-diagram.png){width=300px}
-![hardware system](./images/hardware-system.png){width=300px}
+<img src="./images/images/wiring-diagram" width="300">
+<img src="./images/hardware-system.png" width="300">
 
 ## Usage
 
@@ -71,11 +71,11 @@ Follow the steps in the Hardware Setup section of the documentation to properly 
 
 Visit the Telegram bot integrated with ESP for monitoring, or alternatively, monitoring can be done via the LCD.
 
-![telegram](./images/telegram.png){width=300px}
+<img src="./images/telegram.png" width="300">
 
 ## Result
 
-![catfish](./images/result.png){width=300px}
+<img src="./images/result" width="300">
 
 ## Contributing
 
